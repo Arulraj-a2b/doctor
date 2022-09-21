@@ -18,7 +18,8 @@
   margin-bottom: 70px;
 }
 .svgTheme {
-  position: fixed;
   bottom: 75px;
-  right: 0;
+  position: sticky;
+  justify-content: flex-end;
+  display: flex;
 }
