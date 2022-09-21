@@ -1,0 +1,21 @@
+/* 
+  author: arulraj
+  about: css themes directly added to the root elements
+  notes: please maintain the css variables in all the files
+*/
+:root {
+  --color-white: #ffffff;
+
+  /*--- Start Neutral Color ---*/
+  --color-black: #000000;
+  --color-gary-1: #939195;
+  --color-gary-2: #f6f4f7;
+
+  --color-title-primary: #302d34;
+  --color-text-primary-1: #302d34;
+
+  /*--- End Neutral Color ---*/
+
+  --color-primary: #62bbcb;
+  --color-yellow: #f3e349;
+}

@@ -1,0 +1,64 @@
+.common {
+  border-radius: 4px;
+  /* border: 1px solid var(--color-gary-7, #dbdfea); */
+  box-sizing: border-box;
+}
+.inputStyle {
+  width: 100%;
+  outline: none;
+  box-sizing: border-box;
+  padding: 14px 12px;
+  border-radius: 10px;
+  background-color: var(--color-white, #ffffff);
+  border: none;
+}
+.inputStyle::placeholder {
+  color: var(--color-gary-1, #939195);
+  font-weight: bold;
+}
+.actionDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.common:focus {
+  border: 1px solid var(--color-primary, #62bbcb);
+}
+
+.inputDiv {
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 11;
+}
+
+.actionRightStyle {
+  padding-right: 8px;
+}
+
+.actionLeftStyle {
+  padding-left: 8px;
+}
+
+.floatingLabel {
+  position: absolute;
+  transition: 0.3s ease all;
+  margin-left: 12px;
+}
+
+.floatingFocusLabel {
+  position: absolute;
+  transition: 0.3s ease all;
+  margin-left: 4px;
+  top: -8px;
+  left: 5px;
+  padding: 0 2px;
+  background-color: var(--color-white, #ffffff);
+}
+.requiredStyle {
+  margin-left: 2px;
+}
+.floatStyle {
+  z-index: -1;
+}

@@ -1,0 +1,23 @@
+.overAll {
+  background-color: var(--color-primary, #62bbcb);
+  border-radius: 10px;
+  position: relative;
+  height: 130px;
+  padding-top: 20px;
+  padding-left: 24px;
+  margin: 0 30px;
+}
+.topDoctor {
+  position: absolute;
+  width: 100%;
+  height: 173px;
+  top: -24px;
+}
+.reviewText {
+  margin-top: 4px;
+}
+.btnStyle {
+  position: relative;
+  left: -8px;
+  top: 16px;
+}

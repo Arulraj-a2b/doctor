@@ -1,0 +1,22 @@
+.overAll {
+  padding: 30px 30px 30px 30px;
+}
+.borderStyle {
+  border: 2px solid var(--color-primary, #62bbcb);
+  padding: 18px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.profile {
+  height: 92px;
+  width: 92px;
+  border-radius: 4px;
+  margin-right: 16px;
+}
+.listValue {
+  margin-top: 6px;
+  margin-bottom: 2px;
+}
+.listContainer{
+  margin-top: 18px;
+}

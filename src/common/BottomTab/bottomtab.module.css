@@ -1,0 +1,17 @@
+.overAll {
+  padding: 16px 30px;
+  background-color: var(--color-white, #ffffff);
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  -webkit-box-shadow: 0px -2px 8px 0px rgba(0, 0, 0, 0.42);
+  -moz-box-shadow: 0px -2px 8px 0px rgba(0, 0, 0, 0.42);
+  box-shadow: 0px -2px 8px 0px rgba(0, 0, 0, 0.42);
+}
+.focus {
+  background-color: var(--color-yellow, #f3e349);
+  padding: 14px;
+  border-radius: 10px;
+}
+.title{
+  margin-left: 4px;
+}

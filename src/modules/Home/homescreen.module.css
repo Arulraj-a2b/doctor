@@ -1,0 +1,24 @@
+.overAll {
+  position: relative;
+}
+.inputSearch {
+  padding: 0px 30px 30px 30px;
+}
+.svgSearch {
+  position: absolute;
+  right: 8px;
+  bottom: -6px;
+}
+.topDoctor {
+  width: 100%;
+  height: 150px;
+}
+.svgSlide {
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+.svgTheme {
+  position: fixed;
+  bottom: 64px;
+  right: 0;
+}

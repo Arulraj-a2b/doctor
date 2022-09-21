@@ -1,0 +1,40 @@
+.common {
+  font-size: 14px;
+}
+.color-primary {
+  color: var(--color-text-primary-1, #302d34);
+}
+.color-gray {
+  color: var(--color-gary-1, #939195);
+}
+.color-theme {
+  color: var(--color-primary, #62bbcb);
+}
+.color-white {
+  color: var(--color-white, #ffffff);
+}
+.color-yellow {
+  color: var(--color-yellow, #f3e349);
+}
+
+.bold {
+  font-weight: bold;
+}
+.text-start {
+  text-align: start;
+}
+.text-end {
+  text-align: end;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-justify {
+  text-align: justify;
+}

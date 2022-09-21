@@ -1,0 +1,17 @@
+.overAll {
+  background-color: var(--color-primary, #62bbcb);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.listImageHeight {
+  height: 62px;
+  width: 72px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.listFlex{
+  margin-top: 20px;
+}
+.listName{
+  margin-top: 2px;
+}

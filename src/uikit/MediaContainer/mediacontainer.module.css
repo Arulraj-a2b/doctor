@@ -1,0 +1,6 @@
+.innerContainer {
+  max-width: 768px;
+}
+.overAll {
+  background-color: var(--color-gary-2, #f6f4f7);
+}
